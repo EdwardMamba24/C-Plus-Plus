@@ -17,4 +17,5 @@ do{
 }
 while(number>0);
 	cout<<binary;
+return 0;
 }
